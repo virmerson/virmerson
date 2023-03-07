@@ -2,9 +2,9 @@
 I'm Virmerson.
 I'm a full stack developer :computer:
 
-- 🌐   I’m currently working at **Nomad Global**
-- :purple_heart:   React Native
-- :computer:   ReactJS, Node, Typescript
+- 🌐   I’m currently working at ** High Tech Cursos and Agrointeli**
+- :purple_heart:  JavaScript
+- :computer:   VueJs, ReactJS, Node, MongoDB, Typescript
 - 💬   Ask me about: tech, martial arts 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Virmerson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/virmerson/)](https://www.linkedin.com/in/virmerson/) 
