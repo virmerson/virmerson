@@ -2,7 +2,7 @@
 I'm Virmerson.
 I'm a full stack developer :computer:
 
-- 🌐   I’m currently working at ** High Tech Cursos and Agrointeli**
+- 🌐   I’m currently working at **High Tech Cursos and Agrointeli**
 - :purple_heart:  JavaScript
 - :computer:   VueJs, ReactJS, Node, MongoDB, Typescript
 - 💬   Ask me about: tech, martial arts 
