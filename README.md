@@ -1,6 +1,6 @@
 ## What's up my friends
 I'm Virmerson.
-I'm a full stack developer :computer:
+I'm a full stack developer and Programming Teacher :computer:
 
 - 🌐   I’m currently working at **High Tech Cursos and Ada Tech**
 - :purple_heart:  JavaScript
